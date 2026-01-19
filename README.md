@@ -1,4 +1,4 @@
-# SuperStore Sales Dashboard - Power BI
+# Business Intelligence Dashboard – Sales Analytics (Power BI + Excel)
 
 This project is a comprehensive **Power BI Dashboard** built using the Superstore dataset. It focuses on uncovering business insights through **data analysis**, **time series forecasting**, and **interactive visualizations**.
 
